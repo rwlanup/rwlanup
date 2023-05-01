@@ -12,6 +12,12 @@ I'm passionate about building user-centric, efficient, and responsive web applic
 
 ---
 
+### Find me on web
+
+[<img src="./icons/facebook-button.svg" height="40" alt="Facebook"/>](https://facebook.com/rwlanup)
+[<img src="./icons/linkedin-button.svg" height="40" alt="Linkedin" />](https://linkedin.com/in/rwlanup)
+[<img src="./icons/website.svg" height="40" alt="anuprawal.com.np" />](https://anuprawal.com.np)
+
 ### Skills
 
 #### Programming Language
@@ -121,11 +127,6 @@ I'm passionate about building user-centric, efficient, and responsive web applic
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="./icons/vs-code.svg" width="36" height="36" alt="Visual Studio Code" />
 </a>
-
-### Find me on web
-
-[<img src="./icons/facebook-button.svg" height="40" alt="Facebook"/>](https://facebook.com/rwlanup)
-[<img src="./icons/linkedin-button.svg" height="40" alt="Linkedin" />](https://linkedin.com/in/rwlanup)
 
 ### Hobbies
 
