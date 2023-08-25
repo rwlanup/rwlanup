@@ -137,8 +137,6 @@ I'm passionate about building user-centric, efficient, and responsive web applic
 
 ### Technology I want to learn
 
-- [Three.js](https://threejs.org/)
-- [GSAP](https://greensock.com/gsap/)
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Nest.js](https://nestjs.com/)
